@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-2 input...
+AND operation between two inputs
 
 ## How to test
 
-something something
+Logic gate
 
 ## External hardware
 
-idk idk idk
+Two LEDs
